@@ -22,7 +22,6 @@ Busco sempre aprender coisas novas me aperfeiçoando cada vez mais nessa área p
     <img align="center" alt="Lucas-mysql" height="50" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
     <img align="center" alt="Lucas-mongo" height="50" width="60" src="https://www.svgrepo.com/show/373845/mongo.svg">
     <img align="center" alt="Lucas-postgresql" height="50" width="60" src="https://www.svgrepo.com/show/354200/postgresql.svg">
-    <img align="center" alt="Lucas-sqlServer" height="50" width="60" src="https://www.svgrepo.com/show/508811/dbs-sqlserver.svg">
     <img align="center" alt="Lucas-sqlServer" height="50" width="60" src="https://www.svgrepo.com/show/508811/dbs-sqlserver.svg"><br><br>
     <img align="center" alt="Lucas-insomnia" height="50" width="60" src="https://www.svgrepo.com/show/353904/insomnia.svg">
     <img align="center" alt="Lucas-postman" height="50" width="60" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
